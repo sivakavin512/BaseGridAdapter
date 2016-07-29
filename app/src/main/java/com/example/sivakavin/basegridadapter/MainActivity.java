@@ -23,6 +23,8 @@ public class MainActivity extends Activity implements AdapterView.OnItemClickLis
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        //Inflating the layout file from xml
         setContentView(R.layout.activity_main);
         icons= (GridView) findViewById(R.id.gridView);
         CustomAdapter adapter=new CustomAdapter(this);
