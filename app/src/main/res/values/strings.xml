@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BaseGridAdapter</string>
+
+    <string-array name="icons">
+        <item>Icon 1</item>
+        <item>Icon 2</item>
+        <item>Icon 3</item>
+        <item>Icon 4</item>
+        <item>Icon 5</item>
+        <item>Icon 6</item>
+        <item>Icon 7</item>
+        <item>Icon 8</item>
+        <item>Icon 9</item>
+    </string-array>
+</resources>
